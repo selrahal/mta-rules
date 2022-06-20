@@ -17,7 +17,7 @@
         <tag>logging</tag>
     </metadata>
     <rules>
-        <rule id="logging-bank-0001">
+        <rule id="logging-bank-0002">
           <when>
               <javaclass references="java.util.logging.SocketHandler{*}"/>
           </when>

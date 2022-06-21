@@ -1,0 +1,4 @@
+https://search.maven.org/remotecontent?filepath=org/defne/samples/hello-world/1.0.1/hello-world-1.0.1.war
+https://search.maven.org/remotecontent?filepath=org/teatrove/examples/hello-world/4.1.2/hello-world-4.1.2.war
+https://search.maven.org/remotecontent?filepath=org/apache/brooklyn/example/brooklyn-example-hello-world-sql-webapp/1.0.0/brooklyn-example-hello-world-sql-webapp-1.0.0.war
+https://search.maven.org/remotecontent?filepath=org/apache/myfaces/extensions/validator/examples/examples-hello_world/1.2.2/examples-hello_world-1.2.2.war
